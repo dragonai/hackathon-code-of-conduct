@@ -10,7 +10,7 @@ After viewing Major League Hacking's official code of conduct (http://static.mlh
 
 2.) __Treat our sponsors with the utmost respect.__ Without them, nothing would be possible. Take some time out of your work to go meet and speak with them. If they come over to talk to you, look up from your work and give them a bit of your time. They're here for you!  Show them you appreciate it.
 
-3.) __Teams can be anywhere from one to four members, unless otherwise specified.__ All teams retain full ownership of what they have created during the hackathon.
+3.) __Teams can be anywhere from one to four members (unless otherwise specified).__ All teams retain full ownership of what they have created during the hackathon.
 
 4.) __The hackathon is a walled garden. To ensure a level playing field for all contestants, all code, design, art, music, SFX, and assets must be created during the duration of the hackathon.__ We want to ensure that all participants start off on the same footing and we also want to preserve the true nature of a hackathon. You are, however, free to make plans, create wireframes, and brainstorm prior to the event.
 
