@@ -23,5 +23,3 @@ _TL;DR: Bring your blueprints, build at the hackathon. It’s the only way we ca
 6.) __Open your mind.__ Hacking unites people from across the world from different cultural norms, nationalities, and backgrounds. Be prepared not only to learn something new from your hack, but also from the amazing people around you.  Be mindful of the fact that certain content and actions can make the people around you uncomfortable. __If your hack contains material that might cross that boundary, talk to a member of the organizing team for a second or third opinion.__ We'll let you know if you should consider rethinking your hack.
 
 7.) __Be the change you want to see in your local community.__ Never be afraid of competing based on where you come from or have preconceptions of grandeur because you come from a great school. At any time one can achieve greatness. You simply have to see it and seize it.
-
-By typing your full name here, you agree to abide by these rules at `hackathon_name`.
